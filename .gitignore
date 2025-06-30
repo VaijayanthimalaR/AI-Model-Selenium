@@ -1,0 +1,1 @@
+"*.class\n*.pyc\ntarget/\ntest-output/\n__pycache__/\n.idea/\nflaky_test_model.pkl" 
